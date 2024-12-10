@@ -73,7 +73,7 @@ const CoinToFiat = () => {
 								Coin
 							</label>
 							<input
-								type="text" // Change input type to text
+								type="text"
 								value={coinValue}
 								onChange={handleCoinChange}
 								className="bg-transparent text-4xl font-medium outline-none w-full py-1"
