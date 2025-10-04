@@ -44,3 +44,4 @@ To run the project locally, follow these steps:
 2. Refactor using Next JS
 3. Using Shadcn Library
 4. Fetch Real Time API
+Tambahan dari wahyuoktaviyana
